@@ -12,6 +12,6 @@ Incorporating DevSecOps into Azure Kubernetes Service (AKS) involves different r
 
 Below diagram is one of my solutions to the DevSecOps Flow for Application Deployment in AKS. The flow suits most custom applications deployed in Kubernetes. Secuirity is built in every phase of DevOps cycle. The diagram is self-explanatory.
 
-![DevSecOps Flow for Application Deployment in AKS](https://github.com/vivitian930/solution-design-log/blob/main/svgs/aks-devsecops-flow.svg)
+![DevSecOps Flow for Application Deployment in AKS](https://github.com/vivitian930/solution-design-log/blob/main/images/aks-devsecops-flow.png?raw=true)
 
 Overall, DevSecOps offers a comprehensive approach to security that can help organizations build more secure software. By integrating security practices into the DevOps process, teams can identify and mitigate security threats early on, prevent vulnerabilities from reaching production environments, and foster a culture of security awareness among development and operation teams. Incorporating DevSecOps into Azure Kubernetes Service (AKS) requires different teams to work together effectively, each with their own specific security considerations. However, with a clear understanding of the principles and practices of DevSecOps, organizations can create more secure applications and systems that meet their business needs.
